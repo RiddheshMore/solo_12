@@ -59,7 +59,7 @@ ros2 launch solo12_description view_solo12.launch.py
 ```
 
 🖼️ **GUI Image:**
-![GUI Image](path/to/gui_image.png)
+![GUI Image](images/GUI.png)
 
 This will load the robot's **URDF** and allow interaction with the robot's joints through **Rviz2**.
 
@@ -95,7 +95,7 @@ ros2 launch solo12_bringup controllers.launch.py
 This will launch the controller and publish goals using `trajectory_msgs.msg.JointTrajectoryPoint`.
 
 🖼️ **Controller Loaded Image:**
-![Controller Loaded](path/to/controller_loaded_image.png)
+![Controller Loaded](images/Controller_Loaded.png)
 
 **Note:** Delay between spawning controllers is usually not necessary, but may be useful in complex setups.
 
