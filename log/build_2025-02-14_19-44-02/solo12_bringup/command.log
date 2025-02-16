@@ -1,0 +1,6 @@
+Invoking command in '/home/ritz/solo_12/build/solo12_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/ritz/solo_12/solo12_bringup -DCMAKE_INSTALL_PREFIX=/home/ritz/solo_12/install/solo12_bringup
+Invoked command in '/home/ritz/solo_12/build/solo12_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/ritz/solo_12/solo12_bringup -DCMAKE_INSTALL_PREFIX=/home/ritz/solo_12/install/solo12_bringup
+Invoking command in '/home/ritz/solo_12/build/solo12_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/ritz/solo_12/build/solo12_bringup -- -j20 -l20
+Invoked command in '/home/ritz/solo_12/build/solo12_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/ritz/solo_12/build/solo12_bringup -- -j20 -l20
+Invoking command in '/home/ritz/solo_12/build/solo12_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/ritz/solo_12/build/solo12_bringup
+Invoked command in '/home/ritz/solo_12/build/solo12_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/ritz/solo_12/build/solo12_bringup

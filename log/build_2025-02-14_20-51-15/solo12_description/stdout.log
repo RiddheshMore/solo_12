@@ -1,0 +1,59 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ritz/solo_12/build/solo12_description
+-- Install configuration: ""
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//urdf
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//urdf/leg.xacro
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//urdf/solo12.ros2_control.xacro
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//urdf/solo12.urdf.xacro
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//urdf/test_ros2_controller.xacro
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//urdf/stand.urdf
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_lower_leg_v2_left_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_body.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/upper_leg_left_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_lower_leg_left_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/hip_fe_hl.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/upper_leg_right_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/hip_fe_hr.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/hip_fe_fl.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_upper_leg_left_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_lower_leg_v2_right_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_lower_leg_right_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/lower_leg_left_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_upper_leg_right_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/isolated_foot.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/base.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/hip_fe_fr.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/stand.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//meshes/collision/lower_leg_right_side.stl
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//config
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//config/solo12_controllers.yaml
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//config/gazebo.yaml
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//launch
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//launch/test_solo12_description.launch.py
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//launch/view_solo12.launch.py
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//rviz
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description//rviz/solo12.rviz
+-- Installing: /home/ritz/solo_12/install/solo12_description/share/ament_index/resource_index/package_run_dependencies/solo12_description
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/ament_index/resource_index/parent_prefix_path/solo12_description
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description/environment/ament_prefix_path.sh
+-- Installing: /home/ritz/solo_12/install/solo12_description/share/solo12_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description/environment/path.sh
+-- Installing: /home/ritz/solo_12/install/solo12_description/share/solo12_description/environment/path.dsv
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description/local_setup.bash
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description/local_setup.sh
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description/local_setup.zsh
+-- Installing: /home/ritz/solo_12/install/solo12_description/share/solo12_description/local_setup.dsv
+-- Installing: /home/ritz/solo_12/install/solo12_description/share/solo12_description/package.dsv
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/ament_index/resource_index/packages/solo12_description
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description/cmake/solo12_descriptionConfig.cmake
+-- Up-to-date: /home/ritz/solo_12/install/solo12_description/share/solo12_description/cmake/solo12_descriptionConfig-version.cmake
+-- Installing: /home/ritz/solo_12/install/solo12_description/share/solo12_description/package.xml

@@ -1,0 +1,15 @@
+/home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/package_run_dependencies/solo12_robot
+/home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/parent_prefix_path/solo12_robot
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/ament_prefix_path.sh
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/ament_prefix_path.dsv
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/path.sh
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/path.dsv
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.bash
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.sh
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.zsh
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.dsv
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/package.dsv
+/home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/packages/solo12_robot
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/cmake/solo12_robotConfig.cmake
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/cmake/solo12_robotConfig-version.cmake
+/home/ritz/solo_12/install/solo12_robot/share/solo12_robot/package.xml

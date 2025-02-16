@@ -1,0 +1,20 @@
+[0.007s] Invoking command in '/home/ritz/solo_12/build/solo12_robot': AMENT_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/ritz/solo_12/build/solo12_robot -- -j20 -l20
+[0.035s] Invoked command in '/home/ritz/solo_12/build/solo12_robot' returned '0': AMENT_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/ritz/solo_12/build/solo12_robot -- -j20 -l20
+[0.036s] Invoking command in '/home/ritz/solo_12/build/solo12_robot': AMENT_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/ritz/solo_12/build/solo12_robot
+[0.042s] -- Install configuration: ""
+[0.042s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/package_run_dependencies/solo12_robot
+[0.042s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/parent_prefix_path/solo12_robot
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/ament_prefix_path.sh
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/ament_prefix_path.dsv
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/path.sh
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/path.dsv
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.bash
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.sh
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.zsh
+[0.043s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.dsv
+[0.043s] -- Installing: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/package.dsv
+[0.044s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/packages/solo12_robot
+[0.044s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/cmake/solo12_robotConfig.cmake
+[0.044s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/cmake/solo12_robotConfig-version.cmake
+[0.044s] -- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/package.xml
+[0.046s] Invoked command in '/home/ritz/solo_12/build/solo12_robot' returned '0': AMENT_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ritz/solo_12/install/solo12_description:/home/ritz/solo_12/install/solo12_bringup:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/ritz/solo_12/build/solo12_robot

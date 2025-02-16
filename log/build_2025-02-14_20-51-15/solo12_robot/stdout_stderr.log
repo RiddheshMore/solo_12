@@ -1,0 +1,23 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ritz/solo_12/build/solo12_robot
+-- Install configuration: ""
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/package_run_dependencies/solo12_robot
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/parent_prefix_path/solo12_robot
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/ament_prefix_path.sh
+-- Installing: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/path.sh
+-- Installing: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/environment/path.dsv
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.bash
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.sh
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.zsh
+-- Installing: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/local_setup.dsv
+-- Installing: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/package.dsv
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/ament_index/resource_index/packages/solo12_robot
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/cmake/solo12_robotConfig.cmake
+-- Up-to-date: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/cmake/solo12_robotConfig-version.cmake
+-- Installing: /home/ritz/solo_12/install/solo12_robot/share/solo12_robot/package.xml

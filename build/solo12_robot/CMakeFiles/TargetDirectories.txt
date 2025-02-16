@@ -1,0 +1,9 @@
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/uninstall.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/solo12_robot_uninstall.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/test.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/edit_cache.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/rebuild_cache.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/list_install_components.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/install.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/install/local.dir
+/home/ritz/solo_12/build/solo12_robot/CMakeFiles/install/strip.dir
